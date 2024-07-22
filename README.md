@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamohelo lebona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamohel lebona" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamohelo lebona](https://www.linkedin.com/in/kamohelo-lebona-1133b6262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamohel lebona" height="30" width="40" /></a>
 <a href="https://fb.com/kamogelo mitnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamogelo mitnick" height="30" width="40" /></a>
 <a href="https://instagram.com/kamohelo lebona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamohelo lebona" height="30" width="40" /></a>
 </p>
