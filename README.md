@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flask, entrepreneurship and business development**
 
-- 👨‍💻 All of my projects are available at [https://lebonaexec.web.app](https://lebonaexec.web.app)
+
 
 - 💬 Ask me about **Flutter,React,Hacking and Python**
 
